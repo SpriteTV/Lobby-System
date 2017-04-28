@@ -1,0 +1,6 @@
+name: LobbySystem
+author: SpriteTV
+version: 1.0
+main: at.spritetv.lobby.Main
+depends: [CoreAPI]
+commands:
