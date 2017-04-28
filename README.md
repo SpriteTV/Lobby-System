@@ -1,2 +1,3 @@
 # Lobby-System
-# Lobby-System
+Wenn du mein Plugin benutzt, ist es nicht erlaubt zu sagen dass das Plugin von dir ist.
+
